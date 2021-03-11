@@ -1,0 +1,36 @@
+.user{
+	margin: 0;
+	height: 75px;
+	background-color:black;
+	color: white;
+	overflow: hidden;
+
+}
+
+.user a{
+	font-family: Georgia;
+	margin-top: 3px;
+	margin-left: 12px;
+	margin-right: 3%;
+	height: 20px;
+	float: right;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+}
+.user li{
+	margin-left: 200px;
+	list-style: none;
+}
+.user a:hover{
+	background-color: transparent;
+	color:yellow;
+	font-size: 20px;
+	text-align: center;
+}
+.user a:active{
+	background-color: transparent;
+	color:white;
+}
